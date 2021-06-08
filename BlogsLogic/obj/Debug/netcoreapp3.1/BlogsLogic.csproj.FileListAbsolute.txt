@@ -1,0 +1,9 @@
+C:\Users\kalac\source\repos\BlogsLogic\bin\Debug\netcoreapp3.1\BlogsLogic.deps.json
+C:\Users\kalac\source\repos\BlogsLogic\bin\Debug\netcoreapp3.1\BlogsLogic.dll
+C:\Users\kalac\source\repos\BlogsLogic\bin\Debug\netcoreapp3.1\BlogsLogic.pdb
+C:\Users\kalac\source\repos\BlogsLogic\obj\Debug\netcoreapp3.1\BlogsLogic.AssemblyInfoInputs.cache
+C:\Users\kalac\source\repos\BlogsLogic\obj\Debug\netcoreapp3.1\BlogsLogic.AssemblyInfo.cs
+C:\Users\kalac\source\repos\BlogsLogic\obj\Debug\netcoreapp3.1\BlogsLogic.csproj.CoreCompileInputs.cache
+C:\Users\kalac\source\repos\BlogsLogic\obj\Debug\netcoreapp3.1\BlogsLogic.dll
+C:\Users\kalac\source\repos\BlogsLogic\obj\Debug\netcoreapp3.1\BlogsLogic.pdb
+C:\Users\kalac\source\repos\BlogsLogic\obj\Debug\netcoreapp3.1\BlogsLogic.csproj.AssemblyReference.cache

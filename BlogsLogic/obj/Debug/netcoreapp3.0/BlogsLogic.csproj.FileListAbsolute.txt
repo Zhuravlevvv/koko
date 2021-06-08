@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\wow\BlogsLogic\bin\Debug\netcoreapp3.0\BlogsLogic.deps.json
+C:\Users\user\Desktop\wow\BlogsLogic\bin\Debug\netcoreapp3.0\BlogsLogic.dll
+C:\Users\user\Desktop\wow\BlogsLogic\bin\Debug\netcoreapp3.0\BlogsLogic.pdb
+C:\Users\user\Desktop\wow\BlogsLogic\obj\Debug\netcoreapp3.0\BlogsLogic.csprojAssemblyReference.cache
+C:\Users\user\Desktop\wow\BlogsLogic\obj\Debug\netcoreapp3.0\BlogsLogic.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\wow\BlogsLogic\obj\Debug\netcoreapp3.0\BlogsLogic.AssemblyInfo.cs
+C:\Users\user\Desktop\wow\BlogsLogic\obj\Debug\netcoreapp3.0\BlogsLogic.dll
+C:\Users\user\Desktop\wow\BlogsLogic\obj\Debug\netcoreapp3.0\BlogsLogic.pdb

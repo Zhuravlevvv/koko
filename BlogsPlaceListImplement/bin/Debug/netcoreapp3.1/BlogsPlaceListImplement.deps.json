@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BlogsPlaceListImplement/1.0.0": {
+        "dependencies": {
+          "BlogsLogic": "1.0.0"
+        },
+        "runtime": {
+          "BlogsPlaceListImplement.dll": {}
+        }
+      },
+      "BlogsLogic/1.0.0": {
+        "runtime": {
+          "BlogsLogic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BlogsPlaceListImplement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BlogsLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

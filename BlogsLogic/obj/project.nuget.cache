@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ut78rkHGHBJfCVTeQDsby4ODcBE8rvAKX3dVIjSPHEdHcg36wZPifYtrH69m6cuQThXrTUR6S0KZzSvkJ++zBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kalac\\source\\repos\\BlogsLogic\\BlogsLogic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kalac\\.nuget\\packages\\pdfsharp-migradoc\\1.50.5147\\pdfsharp-migradoc.1.50.5147.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"PDFsharp-MigraDoc 1.50.5147\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \".NETCoreApp,Version=v3.1\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "PDFsharp-MigraDoc",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
